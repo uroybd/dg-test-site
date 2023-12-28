@@ -147,7 +147,7 @@ The State and Property are the great embodiments of possessiveness; it is for th
 
 
 > [!note] Notes and Highlights
-> (Notes:: [[Personal/Reading/Notes and Highlights/Why Men Fight by Bertrand Russell.md\|Why Men Fight by Bertrand Russell]])
+> (Notes:: [[Notes from Why Men Fight by Bertrand Russell\|Why Men Fight by Bertrand Russell]])
 
 > [!info] About Why Men Fight by Bertrand Russell
 > <img src="https://books.google.com/books/publisher/content/images/frontcover/yq2MAgAAQBAJ?fife=w600-h900&source=gbs_api" style="float: left; width: 150px; height: auto; margin-right: 1em;" /> Also published under the title of Principals of Social Reconstruction, and written in response to the devastation of World War I, Why Men Fight lays out Bertrand Russell's ideas on war, pacifism, reason, impulse, and personal liberty. He argues that the individualistic approach of traditional liberalism has reached its limits and that when individuals live passionately, they will have no desire for war or killing. Conversely, excessive restraint or reason causes us to live unnaturally and with hostility toward those who are unlike ourselves. This formidable work greatly contributed to Russell’s fame as a formidable social critic and anti-war activist.
